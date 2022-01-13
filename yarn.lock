@@ -2694,7 +2694,7 @@ electron-to-chromium@^1.4.17:
   version "1.4.42"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.42.tgz#fe3ee7c71f0b5302da12e730cd9cd395609625df"
   integrity sha512-JJLT8bjdswJzk8sNRnQjee0MGtO4zTn1t7eWwYPr8gPTadQgNRR/wFRKLGD6HZVZby39yHERkvuCVKNm10r7Dg==
-
+  
 elliptic@^6.5.3:
   version "6.5.4"
   resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.5.4.tgz#da37cebd31e79a1367e941b592ed1fbebd58abbb"
